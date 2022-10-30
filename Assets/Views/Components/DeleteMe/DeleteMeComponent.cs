@@ -1,6 +1,4 @@
 using Assets.Views.Bases;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class DeleteMeComponent : MonoBehaviour
